@@ -15,6 +15,9 @@ The project has been organized into separate files for better modularity:
 ### Main File
 - `main.py` - Main execution file that imports all algorithms and runs the complete analysis
 
+### Report pdf
+- `N_Queens_Problem.pdf` - Comprenshive report using an IEEE standards.
+
 ### Dependencies
 - `requirements.txt` - Lists all required Python packages
 
